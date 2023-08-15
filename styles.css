@@ -1,0 +1,22 @@
+.page-wrapper{
+    width: 800px;
+    margin: auto;
+}
+
+.inputs-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.results-wrapper{
+    text-align:center;
+    margin-top: 2rem;
+}
+
+.blue-background-color{
+    background-color: rgb(127, 127, 233);
+}
+
+.yellow-background-color{
+    background-color: rgb(252, 252, 108);
+}
